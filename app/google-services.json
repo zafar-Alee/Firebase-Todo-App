@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729735074244",
+    "project_id": "task8-87fce",
+    "storage_bucket": "task8-87fce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729735074244:android:9713a2b9f4eaacf8dc9491",
+        "android_client_info": {
+          "package_name": "com.example.task8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOZrLKrNXhVDuD5lfyiFD3btlv1PuK_3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
