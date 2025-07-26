@@ -17,17 +17,7 @@ class MainActivity : ComponentActivity() {
 
         setContent {
             Task8Theme {
-                val navController = rememberNavController()
-
-                NavHost(
-                    navController = navController,
-                    startDestination = "register"
-                ) {
-                    composable("register") { RegisterScreen(navController) }
-                    composable("login") { LoginScreen(navController) }
-                    composable("todo") { TodoScreen(navController) }
-                }
+                MyAppNavGraph()
             }
         }
-    }
-}
+    }}
